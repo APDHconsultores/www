@@ -1,0 +1,6 @@
+s:672:"<p>Aquí puede controlar el comportamiento receptivo de su sitio (qué elementos aparecen en pantallas de diferentes tamaños).<br />
+    De forma predeterminada, la mayoría de los elementos no esenciales están ocultos en los dispositivos móviles y se configuran para que aparezcan solo en pantallas más grandes.<br />
+    Puede hacer que los elementos aparezcan en pantallas más pequeñas eligiendo mostrarlos en "pantallas extra pequeñas" o "pantallas pequeñas".<br />
+    Para comprender mejor cómo funcionan estas configuraciones, consulte la documentación de Bootstrap 4:<br /><br />
+    https://getbootstrap.com/docs/4.0/utilities/display/ <br /><br /></p>
+";

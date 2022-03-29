@@ -1,0 +1,337 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:0:{}s:12:"sectioncache";a:1:{i:1;O:8:"stdClass":4:{s:2:"id";s:1:"1";s:4:"name";s:0:"";s:7:"summary";s:18839:"<div class="container">
+
+    <!-- Sección de identidad -->
+
+    <div class="row align-items-center justify-content-center h-100 py-3">
+        <div class="col d-lg-none" style="text-align: center;"><img src="@@PLUGINFILE@@/logo400x350.png?time=1617210613400" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="400" height="350"></div>
+        <div class="col-lg-5 d-none d-lg-block" style="text-align: center;"><img src="@@PLUGINFILE@@/portada1.jpg?time=1617210240600" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="397" height="500"></div>
+        <div class="col-lg-7 h-100">
+            <div class="row my-n1 m-lg-n4 h-100">
+                <div class="col-lg-10 offset-lg-2 py-2 p-lg-4">
+                    <div class="p-3 box-3">
+                        <h4 class="pt-2">Quiénes somos</h4>
+                        <p>Somos un equipo de profesionales en el área de la psicología cuya finalidad es brindar asesorías y promover las capacidades pedagógicas, psicológicas, sociales y emocionales del ser humano.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row my-n1 m-lg-n4 h-100">
+                <div class="col-lg-10 py-2 p-lg-4">
+                    <div class="p-3 box-1">
+                        <h4 class="pt-2" style="color:white;">Qué hacemos</h4>
+                        <p>Un estudio de las destrezas, habilidades, intereses y aspectos a abordar de cada uno de los que participan en el proceso, a fin de orientar y canalizar el mejoramiento personal, emocional, conductual, académico, profesional y/u
+                            ocupacional de los mismos.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Imagen (resp) para Áreas de Atención -->
+
+    <div class="row justify-content-center py-3">
+        <div class="col d-lg-none text-center"><img src="@@PLUGINFILE@@/portada1.jpg" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="397" height="500"></div>
+    </div>
+
+    <!-- Sección de Objetivos -->
+
+
+    <div class="row py-3">
+        <div class="col">
+            <div class="row justify-content-end py-lg-2">
+                <div class="col text-center text-lg-left">
+                    <h1>Objetivos según áreas&nbsp;de&nbsp;atención</h1>
+                </div>
+                <div class="col-lg-4 py-1 py-lg-0 mx-lg-n2">
+                    <div class="px-3 box-1 h-100">
+                        <h4 class="pt-3" style="color:white;">Personal</h4>
+                        <p>Fomentar el conocimiento y la comprensión del participante y su entorno. Explorar niveles de autoestima, comunicación, posibles dificultades en destrezas sociales, familiares, académicas y laborales.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-end py-lg-2">
+                <div class="col-lg-4 py-1 py-lg-0 mx-lg-n2">
+                    <div class="px-3 box-3 h-100">
+                        <h4 class="pt-3">Pareja</h4>
+                        <p>Mejorar el nivel de satisfacción que los miembros de la pareja obtienen de su relación. Asistir para que la pareja encuentre solución a sus conflictos, cambie algunas conductas tóxicas, asuma sus problemas y mejore sus canales
+                            comunicativos para obtener los resultados deseados.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 py-1 py-lg-0 mx-lg-n2">
+                    <div class="px-3 box-2 h-100">
+                        <h4 class="pt-3" style="color:white;">Familiar</h4>
+                        <p>Mejorar la capacidad de los miembros de la familia para apoyarse mutuamente a fin de optimizar el presente y su interrelación futura. Se crea una nueva manera de vivir.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-end py-lg-2">
+                <div class="col-lg-4 py-1 py-lg-0 mx-lg-n2">
+                    <div class="px-3 box-1 h-100">
+                        <h4 class="pt-3" style="color:white;">Académica</h4>
+                        <p>Proporcionar herramientas que favorezcan las estrategias y técnicas de estudio, así como el desarrollo de habilidades y destrezas que permitan mejorar el desempeño académico, además de promover en ellos acciones que favorezcan
+                            el buen desenvolvimiento educativo.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 py-1 py-lg-0 mx-lg-n2">
+                    <div class="px-3 box-2 h-100">
+                        <h4 class="pt-3" style="color:white;">Vocacional</h4>
+                        <p>Favorecer la autoeficacia, la madurez vocacional y la toma de decisión de carrera, profesión u ocupación, partiendo de la identificación de fortalezas y debilidades vinculadas con el área, del conocimiento de sí mismo y de información
+                            académica-laboral.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 py-1 py-lg-0 mx-lg-n2">
+                    <div class="px-3 box-3 h-100">
+                        <h4 class="pt-3">Organizacional</h4>
+                        <p>Conseguir una adecuada gestión de las personas en las organizaciones, lo cual se traduce en excelencia en atención al cliente, comunicación certera para la efectividad laboral, autoestima y motivación al logro laboral, integración
+                            y desarrollo de equipos de trabajo, manejo del estrés laboral, alto desempeño, entre otros aspectos.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Imagen de Áreas de Atención -->
+
+    <div class="row justify-content-center py-3">
+        <div class="d-lg-block d-none" style="text-align: center;"><img src="@@PLUGINFILE@@/portada2.jpg?time=1617210312000" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="474" height="469"></div>
+    </div>
+
+    <!-- Sección de Áreas de Atención -->
+
+    <div class="row py-3">
+        <div class="col">
+            <div class="py-2 text-center">
+                <h1>Áreas de atención</h1>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-6">
+            <div class="row justify-content-center align-items-center py-2">
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-1">Control emocional</div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-2">Crecimiento personal</div>
+                </div>
+            </div>
+            <div class="row justify-content-center align-items-center py-2">
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-2">Autoestima</div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center py-2 box-3">Liderazgo</div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-1">Conflictos</div>
+                </div>
+            </div>
+            <div class="row justify-content-center align-items-center py-2">
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-1">Hábitos y<br>técnicas de estudio</div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center py-2 box-3">Manejo de la ansiedad<br>y el estrés</div>
+                </div>
+            </div>
+            <div class="row justify-content-center align-items-center py-2">
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center py-2 box-3">Proyecto de vida<br></div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-1">Toma de decisiones<br></div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-2">Adaptación al cambio<br></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-6">
+            <div class="row justify-content-center align-items-center py-2">
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-2">Motivación al logro</div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center py-2 box-3">Manejo del tiempo</div>
+                </div>
+            </div>
+            <div class="row justify-content-center align-items-center py-2">
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center py-2 box-3">Afrontamientos</div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-1">Miedos<br></div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-2">Duelos</div>
+                </div>
+            </div>
+            <div class="row justify-content-center align-items-center py-2">
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center py-2 box-3">Elección vocacional - ocupacional</div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white text-truncate py-2 box-1">Comunicación<br>y Asertividad</div>
+                </div>
+            </div>
+            <div class="row justify-content-center align-items-center py-2">
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-1">Relación de pareja</div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center text-white py-2 box-2">Relación familiar</div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center py-2 box-3">Crecimiento personal<br></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Imagen de cerebro -->
+
+    <div class="row justify-content-center py-3">
+        <img src="@@PLUGINFILE@@/portada3.jpg?time=1617210432700" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="800" height="560">
+    </div>
+
+    <!-- Sección de Modalidades de atención -->
+
+    <div class="row py-3">
+        <div class="col">
+            <div class="row">
+                <div class="col py-2 text-center">
+                    <h1>Modalidades de atención</h1>
+                </div>
+            </div>
+            <div class="row d-flex justify-content-center">
+                <div class="col-10 col-lg-4 p-1 d-flex align-items-stretch">
+                    <div id="portada" class="card">
+                        <img src="@@PLUGINFILE@@/portada4.jpg?time=1617210494600" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="580" height="387">
+                        <div class="card-body">
+                            <h4 class="card-title text-white">Asesoramiento individual</h4>
+                            <p class="card-text">Se estructura en sesiones de 45 a 60 minutos y tiene una duración temporal limitada (entre 1 y 20 sesiones)</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-10 col-lg-4 p-1 d-flex align-items-stretch">
+                    <div id="portada" class="card">
+                        <img src="@@PLUGINFILE@@/portada5.jpg?time=1617210524800" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="580" height="387">
+                        <div class="card-body">
+                            <h4 class="card-title text-white">Asesoramiento grupal</h4>
+                            <p class="card-text">Se estructura en sesiones. El&nbsp;tiempo y durabilidad depende del objetivo planteado.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-10 col-lg-4 p-1 d-flex align-items-stretch">
+                    <div id="portada" class="card">
+                        <img src="@@PLUGINFILE@@/portada6.jpg?time=1617210545000" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom" width="580" height="387">
+                        <div class="card-body">
+                            <h4 class="card-title text-white">Asesoramiento <em>online</em></h4>
+                            <p class="card-text">Individual o grupal.<br>Se estructura en sesiones. El&nbsp;tiempo y durabilidad depende del objetivo planteado.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sección de Asesoramiento y estudio vocacional -->
+
+    <div class="row py-3">
+        <div class="col">
+            <div class="row">
+                <div class="col">
+                    <div class="pt-3" style="text-align:center">
+                        <h1>Asesoramiento y estudio&nbsp;vocacional</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center py-2">
+                <div class="col-lg-6 text-lg-right">
+                    <div>
+                        <h3>¿Tienes dudas en la elección de&nbsp;tu&nbsp;carrera?</h3>
+                    </div>
+                    <div class="d-none d-sm-none d-md-block"><br></div>
+                    <div>
+                        <h3>¿Desconoces tus habilidades e&nbsp;intereses?</h3>
+                    </div>
+                    <div class="d-none d-sm-none d-md-block"><br></div>
+                    <div>
+                        <h3>¿No manejas información sobre&nbsp;las&nbsp;carreras?</h3>
+                    </div>
+                    <div class="d-none d-sm-none d-md-block"><br></div>
+                    <div>
+                        <h3>¿No sabes qué estudiar?</h3>
+                    </div>
+                </div>
+                <div class="col-lg-6 p-0">
+                    <img src="@@PLUGINFILE@@/portada7.jpg?time=1617210573300" alt="" role="presentation" class="img-fluid atto_image_button_text-bottom rounded-lg" width="600" height="600">
+                </div>
+            </div>
+            <div class="row text-white align-items-center py-3 box-2">
+                <div class="col-lg-6 my-n2">
+                    <p class="lead pt-2">Es probable que sientas preocupación por lo que será tu futuro.</p>
+                </div>
+                <div class="col-lg-6 my-n2">
+                    <p class="lead pt-2">Tenemos un programa que te permitirá adquirir conocimientos y herramientas necesarias y útiles para tomar una decisión vocacional exitosa.</p>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-10 py-2">
+                    <p class="lead">Para ayudarte en tu elección de carrera, <span class="text-muted">te presentamos una batería de pruebas adaptadas a tu grado de instrucción y a tus posibles necesidades.</span></p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="lead text-center">Evaluamos el desarrollo de tu</p>
+                    <div class="row align-items-center">
+                        <div class="col-6 col-xl-3 text-center p-3">
+                            <div class="box-4 p-2 m-n2">Personalidad</div>
+                        </div>
+                        <div class="col-6 col-xl-3 text-center p-3">
+                            <div class="box-4 p-2 m-n2">Inteligencia general y habilidades cognitivas</div>
+                        </div>
+                        <div class="col-6 col-xl-3 text-center p-3">
+                            <div class="box-4 p-2 m-n2">Intereses profesionales y ocupacionales</div>
+                        </div>
+                        <div class="col-6 col-xl-3 text-center p-3">
+                            <div class="box-4 p-2 m-n2">Madurez vocacional</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row py-2">
+                <div class="col-md-6">
+                    <p>Te entregamos el informe de resultados del estudio vocacional con el análisis de nuestros psicólogos.</p>
+                </div>
+                <div class="col-md-6">
+                    <p>Ofrecemos una serie de talleres que abordan las áreas descritas con base en las necesidades detectadas.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sección de Contacto (resp) -->
+
+    <div class="row d-block d-md-none py-3">
+        <div class="col d-block d-md-none">
+            <div class="row justify-content-center align-items-center p-1">
+                <div class="col-4 my-n1 px-1" id="social">
+                    <div class="text-center py-2 box-1">
+                        <a class="btn btn-outline-light w-100" href="whatsapp://send?phone=584129190684" style="color: white; font-size: 180%;" role="button"><i class="fa fa-whatsapp"></i></a>
+                    </div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center py-2 box-2">
+                        <a class="btn btn-outline-light w-100" href="tg:resolve?domain=APDH_Consultores" style="color: white; font-size: 180%;"><i class="fa fa-telegram"></i></a>
+                    </div>
+                </div>
+                <div class="col-4 my-n1 px-1">
+                    <div class="text-center py-2 box-3">
+                        <a class="btn btn-outline-dark w-100" href="mailto:apdhconsultoresyasociados@gmail.com?subject=Contacto%20desde%20el%20sitio%20web" style="color: gray; font-size: 180%;"><i class="fa fa-envelope"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}}s:9:"shortname";s:4:"APDH";s:8:"fullname";s:28:"APDH Consultores y Asociados";s:6:"format";s:4:"site";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1638376211";}
